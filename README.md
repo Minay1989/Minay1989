@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I am a machine learning enthusiast dedicated to solving real-world problems through AI solutions. With a strong interest and experience in computer vision and working with large language models (LLMs), I am eager to continue my career in generative AI. My goal is to leverage cutting-edge technologies to create innovative and impactful solutions.
+- 🔭 I am a machine learning enthusiast dedicated to solving real-world problems through AI solutions. With a strong interest and experience in computer vision and working with large language models (LLMs)
 - 🌱 I’m currently learning GraphRAG
 - 📫 How to reach me: Mi.yazdani@gmail.com
 
